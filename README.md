@@ -18,7 +18,7 @@ vagrant up
 ```
 
 Once provisioned, services will be available at:
-Flask app → http://localhost:5100
-Prometheus → http://localhost:9090
-Grafana → http://localhost:3100 (login: admin / admin)
+- Flask app → http://localhost:5100
+- Prometheus → http://localhost:9090
+- Grafana → http://localhost:3100 (login: admin / admin)
 
