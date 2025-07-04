@@ -1,6 +1,6 @@
 # Grafana Monitoring
 
-## Ubuntu Vagrant Dev Stack (ARM64 - Apple Silicon)
+## Ubuntu Vagrant Flask/Prometheus/Grafana (ARM64 - Apple Silicon)
 
 This Vagrant setup creates an Ubuntu 24.04 VM configured with:
 
